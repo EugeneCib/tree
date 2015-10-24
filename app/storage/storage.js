@@ -1,0 +1,2 @@
+angular.module('egStorage', ['LocalStorageModule']);
+
